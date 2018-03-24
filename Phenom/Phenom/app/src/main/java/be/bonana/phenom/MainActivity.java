@@ -190,7 +190,7 @@ public class MainActivity extends AppCompatActivity {
                             dst.transferFrom(src, 0, src.size());       // copy the first file to second.....
                             src.close();
                             dst.close();
-                            Toast.makeText(getApplicationContext(), "La photo de profil a été chnagée", Toast.LENGTH_LONG).show();
+                            Toast.makeText(getApplicationContext(), "La photo de profil a été changée", Toast.LENGTH_LONG).show();
 
                             Bitmap yourSelectedImage = BitmapFactory.decodeStream(imageStream);
                         }
