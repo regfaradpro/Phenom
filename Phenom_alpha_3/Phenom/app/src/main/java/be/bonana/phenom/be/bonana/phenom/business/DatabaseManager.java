@@ -1,4 +1,4 @@
-package be.bonana.phenom.business;
+package be.bonana.phenom.be.bonana.phenom.business;
 
 import android.content.Context;
 import android.database.sqlite.SQLiteDatabase;

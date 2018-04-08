@@ -1,4 +1,4 @@
-package be.bonana.phenom.business;
+package be.bonana.phenom.be.bonana.phenom.business;
 
 import com.j256.ormlite.field.DatabaseField;
 import com.j256.ormlite.table.DatabaseTable;
